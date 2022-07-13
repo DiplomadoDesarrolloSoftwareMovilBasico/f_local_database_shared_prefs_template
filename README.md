@@ -2,6 +2,9 @@
 
 Work on controller, usecase and repository
 
+Versión completa en:
+https://github.com/augustosalazar/f_local_database_shared_prefs
+
 Run the integration test with:  
 flutter drive --driver test_driver/integration_test.dart --target integration_test/app_test.dart
 
